@@ -5,7 +5,9 @@ This software represents a simple game of rock papers and scissors
 
 ### File:
 rock_paper_scissors project.py: Contains the entire content of the game.
-
+```sh
+rock_paper_scissors project.py
+```
 
 ### Layout:
 1) Import random package
